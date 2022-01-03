@@ -28,6 +28,7 @@ Exemple de valeurs dans un fichier :
 1.2
 ```
 Explications des valeur du fichier
+```
 k=2
 x0=1.0
 ℎ =5.0
@@ -37,5 +38,5 @@ y1=4.0
 y2=8.5
 y3=9.1
 y4=1.2
-
+```
 Toute information incorrecte implique l’affichage d’un message d’erreur et la fin du programme
